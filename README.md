@@ -27,6 +27,6 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ipaul1996&show_icons=true&locale=en" alt="ipaul1996" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ipaul1996&show_icons=true&locale=en" alt="ipaul1996" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ipaul1996&" alt="ipaul1996" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipaul1996&" alt="ipaul1996" /></p>
