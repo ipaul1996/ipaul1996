@@ -1,5 +1,5 @@
 
-<img alt="" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width=100% height=250>
+<img alt="" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width=100% height=220>
 <h1 align="center">Hi 👋, I'm Indrajit Paul</h1>
 <h3 align="left" font-style=italic >I'm an aspiring Java Backend Developer from India. I’m passionate about writing clean and efficient codes.</h3>
 <img align="right" width="380"  alt="img" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
