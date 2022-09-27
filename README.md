@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ipaul1996.github.io/](https://ipaul1996.github.io/)
 
-- 💬 Ask me about **Java, DBMS**
+- 💬 Ask me about **Java, MySQL**
 
 - 📫 How to reach me **indraindrani1999@gmail.com**
 
