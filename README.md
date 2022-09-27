@@ -1,7 +1,7 @@
 
 <img alt="" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width=100% height=210>
 <h1 align="center">Hi 👋, I'm Indrajit Paul</h1>
-<p align="left" font-style=italic > I'm an aspiring Java Backend Developer from India. I’m passionate about writing clean and efficient codes. I have always been intrigued by how technology has transformed our lives in all aspects. I completed my B.Sc in Physics in 2018, then I worked in an NGO Children International Sahay as a Science and Mathematics teacher for 3 years. During the pandemic, we had to go online. For this, I got the opportunity to explore many applications such that we can deliver our content in a better fashion. Then I realized the need for user-centric software solutions. It motivated me to build a career in the software development field. My ambition is to write efficient algorithms that will provide optimal solutions.</p>
+<p align="left" font-style=italic > I'm an aspiring Java Backend Developer from India. I’m passionate about writing clean and efficient codes. I have always been intrigued by how technology has transformed our lives in all aspects. I completed my B.Sc in Physics in 2018, then I worked in an NGO, Children International Sahay as a Science and Mathematics teacher for 3 years. During the pandemic, we had to go online. For this, I got the opportunity to explore many applications such that we could deliver our content in a better fashion. Then I realized the need for user-centric software solutions. It motivated me to build a career in the software development field. My ambition is to write efficient algorithms that will provide optimal solutions.</p>
 
 <img align="right" width="380"  alt="img" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
