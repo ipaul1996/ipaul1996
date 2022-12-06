@@ -7,11 +7,11 @@
 
 <p padding= 100 align="left"> <img src="https://komarev.com/ghpvc/?username=ipaul1996&label=Profile%20views&color=0e75b6&style=flat" alt="ipaul1996" margin-left=550/> </p>
 
-- 🌱 I’m currently learning **Core Java, RDBMS, and JDBC**
+- 🌱 I’m currently learning **Core Java, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://ipaul1996.github.io/](https://ipaul1996.github.io/)
 
-- 💬 Ask me about **Java, MySQL**
+- 💬 Ask me about **Java, MySQL, JDBC, Hibernate**
 
 - 📫 How to reach me **indraindrani1999@gmail.com**
 
