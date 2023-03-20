@@ -7,11 +7,11 @@
 
 <p padding= 100 align="left"> <img src="https://komarev.com/ghpvc/?username=ipaul1996&label=Profile%20views&color=0e75b6&style=flat" alt="ipaul1996" margin-left=550/> </p>
 
-- 🌱 I’m currently learning **Core Java, Spring Boot**
+- 🌱 I’m currently learning **Unit Testing with JUnit5 and Mockito**
 
 - 👨‍💻 All of my projects are available at [https://ipaul1996.github.io/](https://ipaul1996.github.io/)
 
-- 💬 Ask me about **Java, MySQL, JDBC, Hibernate**
+- 💬 Ask me about **Java, MySQL, Hibernate, Spring**
 
 - 📫 How to reach me **indraindrani1999@gmail.com**
 
