@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Unit Testing with JUnit5 and Mockito**
 
-- 👨‍💻 All of my projects are available at [https://ipaul1996.github.io/](https://ipaul1996.github.io/)
+- 👨‍💻 Checkout my portfolio [https://ipaul1996.github.io/](https://ipaul1996.github.io/)
 
 - 💬 Ask me about **Java, MySQL, Hibernate, Spring**
 
