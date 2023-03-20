@@ -1,7 +1,12 @@
 
 <img alt="" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width=100% height=210>
 <h1 align="center">Hi 👋, I'm Indrajit Paul</h1>
-<p align="left" font-style=italic > I'm an aspiring Java Backend Developer from India. I’m passionate about writing clean, efficient and scalable codes. I have always been intrigued by how technology has transformed our lives in all aspects. I completed my B.Sc in Physics in 2018, then I worked in an NGO, Children International Sahay as a Science and Mathematics teacher for 3 years. I have always had a peculiar fascination for installing different applications and exploring their potential benefits in everyday life. During the pandemic, we had to teach students in online mode. For this, I got the opportunity to explore many applications such that we could deliver our content in a better fashion. Then I realized the need for user-centric software solutions. It motivated me to build a career in the software development field. My focus is to write efficient algorithms that will provide optimal solutions.</p>
+<p align="left" font-style=italic > Hi there! I'm Indrajit Paul, a Java Backend Developer based in India. I am passionate about crafting clean, efficient, and scalable code that solves real-world problems and enhances people's lives. My ultimate goal is to develop software products that enable individuals to achieve their goals and increase their productivity.
+  
+Over the past year, I have gained expertise in various technologies, including Java, Hibernate, Spring, MySQL, HTML, CSS, and JavaScript, and have worked on numerous group and individual projects.
+  
+Currently, I am seeking job opportunities and would love to collaborate with you to create amazing products that make a difference. If you are searching for a dedicated and reliable Java Backend Developer, please contact me.
+</p>
 
 <img align="right" width="380"  alt="img" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
